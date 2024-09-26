@@ -1032,3 +1032,4 @@ D:\GitHub\ProgMob\TipCalculator\obj\Debug\net8.0-android\stamp\_ConvertResources
 D:\GitHub\ProgMob\TipCalculator\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 D:\GitHub\ProgMob\TipCalculator\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 D:\GitHub\ProgMob\TipCalculator\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
+D:\GitHub\ProgMob\TipCalculator\obj\Debug\net8.0-android\TipCalculator.sourcelink.json
